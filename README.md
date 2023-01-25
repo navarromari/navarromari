@@ -8,7 +8,7 @@
 
 - 📫 Reach me **mariana.navarrogoes@gmail.com**
 
-- ⚡ Fun fact **I'm not from a tech background, I have a literature and linguistics degree!**
+- ⚡ Fun fact **I have a literature and linguistics degree!**
 
 <div align="center">
   <a href="https://github.com/navarromari">
