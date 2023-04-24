@@ -2,7 +2,7 @@
 
 <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://honeysanime.com/wp-content/uploads/2021/04/Sumikko-Gurashi-the-movie-2-Shirokuma.png">
 
-- 🔭 Currently working on **a personal game dev project**
+- 🔭 Currently looking for opportunities as a **software engineer**
 
 - 🌱 Currently learning **Java and UI Development**
 
