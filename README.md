@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mariana :)</h1>
 
-<img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/99b19c577802811842b7e704caed29c2/cc832c00b5e246eb-21/s400x600/87876c0504f52d0a973dd42d67a9647d3d443108.gif">
+<img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://honeysanime.com/wp-content/uploads/2021/04/Sumikko-Gurashi-the-movie-2-Shirokuma.png">
 
 - 🔭 Currently working on **a personal game dev project**
 
