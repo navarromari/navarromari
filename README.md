@@ -4,7 +4,7 @@
 
 - 🔭 Currently looking for opportunities as a **software engineer**
 
-- 🎯 Focus on **Java and C#**
+- 🎯 Focusing on **Java** and **C#** development
 
 - 📫 Reach me **mariana.navarrogoes@gmail.com**
 
