@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying **AWS** and **Computer Networking**
 
-- 📫 Reach me **mariana.navarrogoes@gmail.com**
+- 📫 Reach me at **mariana.navarrogoes@gmail.com**
 
 - ⚡ Fun fact **I'm a Licenciate of Letters** at [UFRJ](https://ufrj.br/en/)
 
