@@ -14,7 +14,7 @@
 
 <img src="https://www.notionwizard.com/wp-content/uploads/2021/09/Notion-Divider-63.png" alt="Notion Divider">
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=navarromari&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=shaderlab,hlsl" alt="navarromari" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=navarromari&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=shaderlab,hlsl&title_color=c0c0c0" alt="navarromari" /></p>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=navarromari&show_icons=true&theme=transparent&hide_border=true&title_color=c0c0c0&hide_rank=true" alt="Mari's GitHub stats">
