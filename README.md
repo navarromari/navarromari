@@ -5,7 +5,7 @@
 
 - 🔭 I’m a **Junior C# Software Engineer**
 
-- 🌱 I’m currently studying **AWS** and **Computer Networking**
+- 🌱 I’m currently studying **DataMiner** and **Computer Networking**
 
 - 📫 Reach me at **mariana.navarrogoes@gmail.com**
 
