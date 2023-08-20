@@ -3,13 +3,11 @@
 
 <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://honeysanime.com/wp-content/uploads/2021/04/Sumikko-Gurashi-the-movie-2-Shirokuma.png">
 
-- 🔭 I’m a **Junior C# Software Engineer**
+- 🔭 **Junior C# Software Engineer** 
 
-- 🌱 I’m currently studying **DataMiner** and **Computer Networking**
+- 📖 **Licenciate of Letters** at [UFRJ](https://ufrj.br/en/)
 
 - 📫 Reach me at **mariana.navarrogoes@gmail.com**
-
-- ⚡ Fun fact **I'm a Licenciate of Letters** at [UFRJ](https://ufrj.br/en/)
 
 
 <img src="https://www.notionwizard.com/wp-content/uploads/2021/09/Notion-Divider-63.png" alt="Notion Divider">
