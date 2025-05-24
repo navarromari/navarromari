@@ -5,9 +5,9 @@
 
 - 🔭 **C# Software Engineer at Sky** 
 
-- 📖 **Licenciate of Letters** at [UFRJ](https://ufrj.br/en/)
+- 📖 **Licenciate of Letters** at Federal University of Rio de Janeiro
 
-- 🖥️ **MSc Computer Science** at [University of York](https://www.york.ac.uk/)
+- 🖥️ **MSc Computer Science** at University of York
 
 - 📫 Reach me at **mariana.navarrogoes@gmail.com**
 
