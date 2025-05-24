@@ -7,6 +7,8 @@
 
 - 📖 **Licenciate of Letters** at [UFRJ](https://ufrj.br/en/)
 
+- 🖥️ **MSc Computer Science** at [University of York](https://www.york.ac.uk/)
+
 - 📫 Reach me at **mariana.navarrogoes@gmail.com**
 
 
