@@ -11,7 +11,3 @@
 
 - 📫 Reach me at **mariana.navarrogoes@gmail.com**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navarromari&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=shaderlab,hlsl&title_color=c0c0c0" alt="navarromari" /></p>
-
-
