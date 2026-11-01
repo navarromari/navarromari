@@ -7,7 +7,5 @@
 
 - 📖 **Licenciate of Letters** at Federal University of Rio de Janeiro
 
-- 🖥️ **MSc Computer Science** at University of York
-
 - 📫 Reach me at **mariana.navarrogoes@gmail.com**
 
